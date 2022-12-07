@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
  * 🔭 I’m currently working on a Manga Reader Application for Windows... 
  * 🌱 I’m currently learning:
+    * Data Structures and Algorithms 
     * 3D Math, 
     * Computer Graphics, 
     * C++ and 
