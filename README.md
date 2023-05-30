@@ -16,7 +16,8 @@ Here are some ideas to get you started:
     * Python, PyQt & Powershell for Tool Dev.
     * OpenGL, DirectX and Shaders.
     * C++. 
-      Yeah I am killing myself with all the learning but I gotta.
+    
+    Yeah I am killing myself with all the learning but I gotta.
  * ⚡ Fun fact: I am INFJ
 
 <!--
