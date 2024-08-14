@@ -5,26 +5,25 @@
 
 Here are some ideas to get you started:
 -->
- * 🔭 I’m a Technical Artist in the making... 
+ * 🔭 I’m a Graphics Programmer in the making... 
  * 🌱 I’m currently learning:
+    * C++(primary language).
+    * Computer Graphics, OpenGL, and GLSL. 
     * 3D Math.
-    * Computer Graphics.
+    * Unity & C# for Game Dev.
+    * Unreal Engine 5.
     * Blender, Maya & MotionBuilder for 3D Animation
     * Proceduralism
-    * Unity & C# for Game Dev.
     * Python, PyQt & Powershell for Tool Dev.
-    * OpenGL, DirectX, and Shaders.
-    * C++(primary language). 
     
     Yeah, I am killing myself with all the learning but I gotta.
  * ⚡ Fun fact: I am INFJ
 
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on any CG-related project.
+- 🤔 I’m looking for help with Job opportunities in graphics programming.
+- 💬 Ask me about Computer Graphics and Games.
 - 📫 How to reach me: eniolaolawale317@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
 -->
 
