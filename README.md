@@ -9,15 +9,14 @@ Here are some ideas to get you started:
  * 🌱 I’m currently learning:
     * 3D Math.
     * Computer Graphics.
-    * Blender, Maya & MotionBuilder for 3D Graphics
-    * Houdini for Proceduralism
-    * AfterEffects.
+    * Blender, Maya & MotionBuilder for 3D Animation
+    * Proceduralism
     * Unity & C# for Game Dev.
     * Python, PyQt & Powershell for Tool Dev.
-    * OpenGL, DirectX and Shaders.
-    * C++. 
+    * OpenGL, DirectX, and Shaders.
+    * C++(primary language). 
     
-    Yeah I am killing myself with all the learning but I gotta.
+    Yeah, I am killing myself with all the learning but I gotta.
  * ⚡ Fun fact: I am INFJ
 
 <!--
