@@ -20,10 +20,11 @@ Here are some ideas to get you started:
     * Proceduralism in Houdini and Substance Designer.
     * Character Art Design and Concept Art.
     * Digital Art and Illustration.
+    * Machine Learning and Artificial Intelligence
 
-- ⚡ Fun fact: I am INFJ-T
+- ⚡ Fun fact: I am an INFJ-T
 - 📫 How to reach me: eniolaolawale317@gmail.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him/His
 
 - 👯 I’m looking to collaborate on any CG-related project.
 - 🤔 I’m looking for help with Job opportunities in graphics programming, 3D art, and animation.
