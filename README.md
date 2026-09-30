@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
- * 🔭 I’m both an Artist with a Computer Science background that exposed me to Programming.
+ * 🔭 I’m an Artist with a Computer Science background that exposed me to Programming.
  * 🌱 I’m proficient and actively working on projects related to:
     * Computer Graphics.
     * 3D Art.
